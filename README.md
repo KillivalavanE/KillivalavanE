@@ -26,7 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killivalavane&show_icons=true&locale=en&layout=compact" alt="killivalavane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killivalavane&show_icons=true&locale=en" alt="killivalavane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killivalavane&" alt="killivalavane" /></p>
 
