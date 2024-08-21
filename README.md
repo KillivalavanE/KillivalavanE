@@ -5,20 +5,20 @@
 
 - 🌱 I’m currently learning **NextJs,Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [github.com/KillivalavanE](github.com/KillivalavanE)
+- 👨‍💻 All of my projects are available at [KillivalvanE](github.com/KillivalavanE)
 
 - 💬 Ask me about **React,NodeJs,TypeScript**
 
 - 📫 How to reach me **ekilli2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1RnhVOmEI0ih2AYcxbYZM7q1fI00i7A0g](https://drive.google.com/drive/folders/1RnhVOmEI0ih2AYcxbYZM7q1fI00i7A0g)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1RnhVOmEI0ih2AYcxbYZM7q1fI00i7A0g)
 
 - ⚡ Fun fact **I think I've a good humor sense.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/killi-valavan-e-ab8754245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/killi-valavan-e-ab8754245" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/killivalavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="killivalavan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Killivalavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="killivalavan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
