@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs,Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [KillivalvanE](github.com/KillivalavanE)
+- 👨‍💻 All of my projects are available at [KillivalvanE](https://github.com/KillivalavanE)
 
 - 💬 Ask me about **React,NodeJs,TypeScript**
 
